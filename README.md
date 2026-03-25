@@ -1,33 +1,43 @@
-<h2 align="left">Ola, me chamo Orion</h2>
+<!-- BANNER INICIAL -->
+<p align="center">
+  <img src="LINK_DO_SEU_BANNER_AQUI" />
+</p>
 
-###
+<h1 align="center">Olá 👋, eu sou Orion Cavalcante França</h1>
+<h3 align="center">Desenvolvedor de Sistemas | Engenharia de Software</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=orioncavalcante&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=orioncavalcante&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🚀 Sobre mim
+- 🎓 Estudante de **Engenharia de Software (FIAP)**
+- 💻 Foco em **sistemas web e automação**
+- 🧠 Experiência com **projetos reais (TCC e sistemas próprios)**
+- 📊 Interesse em **arquitetura, performance e resolução de problemas**
+- ⚡ Construindo soluções úteis, não apenas código
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
+---
 
-###
+## 🛠️ Linguagens & Ferramentas
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,tailwind,bootstrap,mysql,git,github,figma,arduino,selenium&perline=7" />
+</p>
 
-###
+<p align="center">
+  <!-- Playwright (manual) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="50"/>
+</p>
 
- <a href="https://www.linkedin.com/in/orioncavalcante/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/orioncavalca" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
-  <a href="mailto:orion.franca19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=orioncavalcante&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=orioncavalcante&layout=compact&theme=tokyonight"/>
+</p>
 
+---
+
+<!-- IMAGEM FINAL -->
+<p align="center">
+  <img src="LINK_DA_SEGUNDA_IMAGEM_AQUI" />
+</p>
